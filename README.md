@@ -62,16 +62,6 @@ cd OptimalWeightApp.Tests
 dotnet test --logger "console;verbosity=detailed"
 ```
 
----
-
-## Скриншот Обозревателя тестов
-
-*(Добавьте скриншот после запуска тестов в Visual Studio)*
-
-![Test Explorer Screenshot](test-explorer-screenshot.png)
-
----
-
 ## Автоматизированные тесты
 
 | ID | Описание | Тип |
