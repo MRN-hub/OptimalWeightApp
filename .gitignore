@@ -1,0 +1,19 @@
+## .gitignore для .NET / Visual Studio
+
+# Папки сборки
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Файлы тестового покрытия
+TestResults/
+coverage/
+*.coverage
+
+# OS
+.DS_Store
+Thumbs.db
